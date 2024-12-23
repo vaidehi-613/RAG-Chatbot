@@ -4,7 +4,7 @@ This is a Domain-Specific Chatbot project for SDSU's AI Club completed in a grou
 The team consisted of:
 - Carlos Lopez, Group Leader
 - Vaidehi Pawar
-- Bibianca Baar
+- Bibianca Baarh
 
 The chatbot was created by using Retrieval Augmented Generation (RAG) techniques powered by the LangChain framework. It works
 by extracting parsed text from an uploaded pdf document and splitting the text into chunks. Then, using an embedding model,
