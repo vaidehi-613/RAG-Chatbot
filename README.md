@@ -15,8 +15,10 @@ available context via a RAG pipeline or chain.
 The purpose of our chatbot was to use a Medical Encyclopedia document to empower our chatbot answer patient questions on 
 their diagnosis, or have our chatbot give a possible diagnosis based on a given set of symptoms, or to simply have a 
 nursing student use the chatbot to study for their medical exam.
-<img width="1430" alt="Screenshot 2025-01-01 at 5 58 39 PM" src="https://github.com/user-attachments/assets/da00b390-2a37-45b3-8e18-c8be5339220f" />
 
+<p align="center">
+<img width="950" src="https://github.com/user-attachments/assets/da00b390-2a37-45b3-8e18-c8be5339220f" />
+</p>
 
 This repository includes two implementations: **Using_Huggingface_model_lama_2_7B_Chat_GGML.ipynb** by Vaidehi Pawar,
 and **AIClub_RAG_Ollama_LangChain_Chroma.ipynb** by Carlos Lopez. This repository also includes the semester-long
