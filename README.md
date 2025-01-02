@@ -19,7 +19,7 @@ nursing student use the chatbot to study for their medical exam.
 
 
 This repository includes two implementations: **Using_Huggingface_model_lama_2_7B_Chat_GGML.ipynb** by Vaidehi Pawar,
-and **AIClubChatbot_RAG_Ollama_LangChain_Chroma.ipynb** by Carlos Lopez. This repository also includes the semester-long
+and **AIClub_RAG_Ollama_LangChain_Chroma.ipynb** by Carlos Lopez. This repository also includes the semester-long
 project schedule that includes the weekly goals and notes for the project. In addition, the final presentation slides are included.
 
 Contact me here for any questions: clopez2109@sdsu.edu
